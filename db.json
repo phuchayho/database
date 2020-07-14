@@ -1,5 +1,5 @@
 {
-  "posts":[
+  "users":[
      {"id":"1","name":"Dr. Edwin Orn","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/sunlandictwin/128.jpg","email":"Connor.Hartmann71@gmail.com"}
   ]
 }
